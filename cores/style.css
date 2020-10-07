@@ -1,0 +1,23 @@
+
+.container{
+    background-color: aquamarine;
+}
+.outro{
+    background: black;
+}
+#titulo{
+    color: rgb(37, 109, 224);
+    background: red;
+}
+.nome{
+    color: rgba(153, 94, 207, 0.467);
+}
+
+.par1{
+    color: rgba(207, 35, 35, 1);
+}
+.par2{
+    color: rgb(35, 200, 71, 1);
+}
+
+
