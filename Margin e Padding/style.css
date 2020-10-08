@@ -1,0 +1,10 @@
+#base{
+    height: 10px;
+    background-color: red;
+}
+#container{
+    background-color: blue;
+    color: white;
+    margin: 10px; /* distancia a parte externa do elemento */
+    padding: 10px;/* distancia a parte interna do elemento */
+}
