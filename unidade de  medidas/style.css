@@ -1,0 +1,33 @@
+#cm{
+    background-color: blue;
+    width: 1cm;
+    height: 1cm;
+}
+
+#mm{
+    background-color: red;
+    width: 1mm;
+    height: 1mm;
+}
+#in{
+    background-color: blue;
+    width: 1in;  /* in : POLEGADA */
+    height: 1in;
+}
+#px{
+    background-color: red;
+    width: 10px;  /* px: pixel */
+    height: 10px;
+}
+
+#pt {
+    background-color: blue;
+    width: 10pt;  /* pt : ponto */
+    height: 10pt;
+}
+#pc{
+    background-color:red;
+    width: 10pc;  /* pt : ponto */
+    height: 10pc;
+}
+
