@@ -1,0 +1,15 @@
+ .links{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    padding: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border: 2px solid tomato;
+}
+
+.links:hover{
+    background: tomato;
+    color: white;
+} 
