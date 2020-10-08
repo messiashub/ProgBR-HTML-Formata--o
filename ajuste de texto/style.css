@@ -1,0 +1,18 @@
+p{
+    color: red;
+   /*text-align: justify;
+   /*text-transform: capitalize;/* capitalize: Deixa a primeira letra de cada palavra maiúscula */
+   /*text-transform: lowercase;/* lowercase: deixa todas as palavras minúsculas */
+   /*text-transform: uppercase; /* uppercase:deixa todas palavras em caixa alta */
+    text-indent: 15px; /* indent: Coloca uma indentação a todos paragrafo */
+   /*text-decoration: underline; /*Coloca uma linha em todo o parágrafo(sublinha) */
+   /*text-decoration: line-through; /* line-trough: riscado */
+   /*text-decoration: none; /* none:retira todo o efeito */
+   /*letter-spacing: 1.2px; /* letter-spacing: espaço entre as letras */
+   /*line-height: 15px; /* line-height:Altura da linha */
+   word-spacing: 5px;/* word-spacing: Define a distancia entre as palavras; */
+   text-shadow: 1px 1px 2px #bbb; /*text-shadow: Coloca uma sombra no texto */
+
+
+    
+}
