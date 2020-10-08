@@ -30,4 +30,10 @@
     width: 10pc;  /* pt : ponto */
     height: 10pc;
 }
-
+/* O TAMANHO PADRÃO É 16PX */
+.container{
+    font-size: 20px;
+}
+.inside{
+    font-size: 1em; /* Em relação a div pai ele tem 20px */
+}
