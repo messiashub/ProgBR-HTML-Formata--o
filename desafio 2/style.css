@@ -1,0 +1,42 @@
+#cartao{
+    width: 400px;
+    height: 200px;
+    border: 1px solid #000000;
+    background-image: url(imagens/background.png);
+    background-size: cover; 
+    padding: 10px; 
+    box-shadow: 2px 1px 4px;
+
+}
+h1{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: Comfortaa, Arial,"sans-serif";
+    font-size: 1.5em;
+    padding: 10px;
+}
+ul{
+    margin: 10px;
+}
+
+ul .a{
+    list-style-image: url(imagens/Insta.png);
+}
+ul .b{
+    list-style-image: url(imagens/Twitter.png);
+}
+ul .c{
+    list-style-image: url(imagens/Youtube.png);
+}
+ a{
+    color: black;
+    font-family:Comfortaa, Arial,"sans-serif" ;
+    text-decoration: none;
+    font-size: 0.9em;
+}
+a:hover{
+    color: cornflowerblue;
+}
+
+
+
